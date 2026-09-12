@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Nombre completo [correo@tijuana.tecnm.mx]
+Garcia Grijalva Armando [L23212195@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
